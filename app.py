@@ -7,7 +7,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.image("https://store8.gofile.io/download/web/487f4d9e-a9ae-4ac4-8024-2bfaa80c29a9/IMG-20250720-WA0027.jpg", width=250, caption="For the best sister ever 💜")
+st.image("https://i.ibb.co/Zpqp8Jnw/IMG-20250720-WA0027.jpg", width=250, caption="For the best sister ever 💜")
 
 st.markdown("---")
 
@@ -33,4 +33,5 @@ Your brother Abinand(who’s definitely cooler than you, but don’t tell anyone
 
 st.markdown("---")
 st.markdown("</h4>", unsafe_allow_html=True)
+
 
